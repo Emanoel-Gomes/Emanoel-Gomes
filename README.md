@@ -2,7 +2,7 @@
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-// ![Emanoel GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoel-Gomes&show_icons=true&theme=cobalt) 
+
 
 ### Tecnologias que eu uso
 <div style="display: inline_block"></br>
