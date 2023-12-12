@@ -1,10 +1,10 @@
 <div align="center">
   
   ### Hi there, reach me on
-  <a href="https://www.linkedin.com/in/emanoel-gomes-850508277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:emanoelgomes47ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/emanoel-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:emanoelgomes47ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 
 <h3>
-  <a href="#" target="_blank">
+  <a href="https://emanoel-gomes.github.io/Emanoel.gomes" target="_blank">
     Check out my portfolio
   </a>
 </h3>
